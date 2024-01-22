@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adimisiones.UX", "Adimisiones.UX\Adimisiones.UX.csproj", "{DCBBDD08-51E9-457E-9906-90C8792A9572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Admisiones.Logic", "Admisiones.Logic\Admisiones.Logic.csproj", "{F2313C21-1FC9-4C6D-B1AE-65A4B94E7B05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBBDD08-51E9-457E-9906-90C8792A9572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBBDD08-51E9-457E-9906-90C8792A9572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCBBDD08-51E9-457E-9906-90C8792A9572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCBBDD08-51E9-457E-9906-90C8792A9572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2313C21-1FC9-4C6D-B1AE-65A4B94E7B05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2313C21-1FC9-4C6D-B1AE-65A4B94E7B05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2313C21-1FC9-4C6D-B1AE-65A4B94E7B05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2313C21-1FC9-4C6D-B1AE-65A4B94E7B05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64E7DC5A-67E6-45A2-A67E-CBF59D60B896}
+	EndGlobalSection
+EndGlobal
